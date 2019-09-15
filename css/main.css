@@ -1,0 +1,18 @@
+.header {
+text-align: center;
+margin-top: 100px;
+}
+.title {
+font-size: 68px;
+font-family: 'Dancing Script', cursive;
+}
+.background {
+background-color: black;
+}
+.article {
+margin-top: 50px;
+margin-left: 400px;
+margin-right: 400px;
+font-size: 15px;
+font-family: 'Times New Roman', Times, serif;
+}
